@@ -26,3 +26,6 @@ A personal collection of study materials, practice exercises, and reference docu
 - Stay consistent with commit messages
 - Push small, clear changes
 - Keep practicing HackerRank problems
+
+## 💬 Interview Notes
+- (coming soon) 
